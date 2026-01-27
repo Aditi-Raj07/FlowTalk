@@ -21,7 +21,7 @@ app.get("/",(req,res)=>{
 const startServer=async ()=>{
     try{
    await connectDB();
-   if(ENV.NODE_ENV !=="projection"){
+   if(ENV.NODE_ENV !=="production"){
     app.listen(ENV.PORT,()=>{
         console.log("Server started on port:",ENV.PORT);
 
