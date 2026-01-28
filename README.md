@@ -39,4 +39,4 @@ flowtalk/
 ├── graphql/        # GraphQL schema & resolvers
 ├── models/         # MongoDB models
 ├── queues/         # RabbitMQ workers
-└── utils/          # Helpers
+└── utils/          # Helper
