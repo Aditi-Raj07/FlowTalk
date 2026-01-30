@@ -32,11 +32,4 @@ Auth	Clerk
 Real-Time Chat	Stream Chat
 File Uploads	UploadThing
 Messaging Queue	RabbitMQ
-📂 Project Structure
-flowtalk/
-├── client/         # React frontend
-├── backend/        # Node + Express API
-├── graphql/        # GraphQL schema & resolvers
-├── models/         # MongoDB models
-├── queues/         # RabbitMQ workers
-└── utils/          # Helper
+
