@@ -25,7 +25,7 @@ app.use(
 
 /* -------------------- Routes -------------------- */
 app.get("/", (req, res) => {
-  res.status(200).send("Hello World 🚀");
+  res.send("Hello World ");
 });
 
 /* -------------------- Server Start -------------------- */
@@ -35,11 +35,11 @@ const startServer = async () => {
 
     if (ENV.NODE_ENV !== "production") {
       app.listen(ENV.PORT, () => {
-        console.log(`✅ Server running on port ${ENV.PORT}`);
+        console.log(` Server running on port ${ENV.PORT}`);
       });
     }
   } catch (error) {
-    console.error("❌ Error starting server:", error);
+    console.error(" Error starting server:", error);
     process.exit(1);
   }
 };
