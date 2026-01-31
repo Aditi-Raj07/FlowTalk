@@ -32,4 +32,5 @@ Auth	Clerk
 Real-Time Chat	Stream Chat
 File Uploads	UploadThing
 Messaging Queue	RabbitMQ
+using inngest
 
