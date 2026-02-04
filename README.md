@@ -25,12 +25,13 @@ It uses a modern, event-driven architecture powered by GraphQL, message queues, 
 
 🛠️ Tech Stack
 Layer	Technology
-Frontend	React, Tailwind CSS, Apollo Client
-Backend	Node.js, Express.js, Apollo GraphQL
+Frontend	React, Tailwind CSS, 
+Backend	Node.js, Express.js,  GraphQL
 Database	MongoDB
 Auth	Clerk
 Real-Time Chat	Stream Chat
 File Uploads	UploadThing
 Messaging Queue	RabbitMQ
+
 
 
