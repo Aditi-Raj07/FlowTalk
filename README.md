@@ -24,7 +24,7 @@ It uses a modern, event-driven architecture powered by GraphQL, message queues, 
 🌐 Scalable backend using Node.js + Express
 
 🛠️ Tech Stack
-Layer	Technology
+	Technology
 Frontend	React, Tailwind CSS, 
 Backend	Node.js, Express.js,  GraphQL
 Database	MongoDB
@@ -32,6 +32,7 @@ Auth	Clerk
 Real-Time Chat	Stream Chat
 File Uploads	UploadThing
 Messaging Queue	RabbitMQ
+
 
 
 
