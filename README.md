@@ -21,7 +21,7 @@ It uses a modern, event-driven architecture powered by GraphQL, message queues, 
 
 🗄️ NoSQL database with MongoDB
 
-🌐 Scalable backend using Node.js + Express
+🌐 Scalable backend using Node.js + 
 
 🛠️ Tech Stack
 	Technology
