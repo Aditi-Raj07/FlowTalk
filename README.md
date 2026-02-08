@@ -30,7 +30,7 @@ Backend	Node.js, Express.js,  GraphQL
 Database	MongoDB
 Auth	Clerk
 Real-Time Chat	Stream Chat
-File Uploads	UploadThing
+File Uploads
 Messaging Queue	RabbitMQ
 
 
