@@ -23,7 +23,7 @@ It uses a modern, event-driven architecture powered by GraphQL, message queues, 
 
 🌐 Scalable backend using Node.js + 
 
-🛠️ Tech Stack
+Tech Stack
 	Technology
 Frontend	React, Tailwind CSS, 
 Backend	Node.js, Express.js,  GraphQL
