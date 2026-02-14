@@ -11,7 +11,7 @@ It uses a modern, event-driven architecture powered by GraphQL, message queues, 
 
 💬 Real-time messaging via Stream Chat
 
-📁 File & image uploads using UploadThing
+📁 File & image uploads using UploadThin
 
 ⚡ GraphQL API using Apollo Server
 
